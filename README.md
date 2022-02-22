@@ -1,1 +1,3 @@
 # PraticandoGit
+
+conflito de branch

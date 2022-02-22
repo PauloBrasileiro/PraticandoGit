@@ -1,3 +1,5 @@
 # PraticandoGit
 
-conflito de branch
+
+materia legal essa
+conflito
